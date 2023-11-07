@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_10_DB_SQL_ORM", "Lab_10_DB_SQL_ORM.csproj", "{198534A9-484E-4B90-92C5-3C73D0769B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198534A9-484E-4B90-92C5-3C73D0769B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198534A9-484E-4B90-92C5-3C73D0769B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198534A9-484E-4B90-92C5-3C73D0769B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198534A9-484E-4B90-92C5-3C73D0769B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F2C8CAA-B172-423D-B03E-859699A68666}
+	EndGlobalSection
+EndGlobal
